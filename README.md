@@ -3,6 +3,9 @@
 [官方文档](https://reactjs.org/docs/rendering-elements.html)<br>
 [中文教程](http://huziketang.mangojuice.top/books/react/)
 
+# 学习demo：
+1. [定时器demo](https://dcpnonstop.github.io/React-study/timeReact.html)
+
 
 
 # 如何学习React
