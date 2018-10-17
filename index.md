@@ -1,6 +1,6 @@
 # React学习笔记：
-**在线教程链接：**
-[官方文档](https://reactjs.org/docs/rendering-elements.html)
+**在线教程链接：**<br>
+[官方文档](https://reactjs.org/docs/rendering-elements.html)<br>
 [中文教程](http://huziketang.mangojuice.top/books/react/)
 
 
