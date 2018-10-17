@@ -5,6 +5,7 @@
 
 # 学习demo：
 1. [定时器demo](https://dcpnonstop.github.io/React-study/timeReact.html)
+2. [生命周期和state](https://dcpnonstop.github.io/React-study/lifecycleReact.html)
 
 
 
